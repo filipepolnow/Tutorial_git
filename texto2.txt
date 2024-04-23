@@ -1,0 +1,1 @@
+testando atualizar no pull dentro do vscode, "tem que aparecer o txt"
